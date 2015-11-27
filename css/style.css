@@ -216,3 +216,6 @@ h1 {
 	97%			{ opacity: 0; left: 54px;	}
 	98%			{ opacity: 0; left: 0;	}
 }
+.cache {
+	display: none;
+}
